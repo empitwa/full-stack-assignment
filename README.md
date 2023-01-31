@@ -12,11 +12,7 @@ This assignment consists of creating a frontend application using this template 
 ...and a backend application using this template URL:
 
 - https://replit.com/github/empitwa/assignment-backend \
-  (The program entry point is `main.py`. Be sure that the variables below are set in the `.replit` file ( [**unhide it first!**](https://docs.replit.com/programming-ide/configuring-repl) )
-  ```toml
-  language = "python3"
-  entrypoint = "main.py"
-  ```
+  (The program entry point must be set to `main.py`. Be sure to set the correct entry point when prompted during the repl creation process. If things go wrong, you can recreate your repl environment.)
 
 Create the application environments using the templates at the above URLs.
 
