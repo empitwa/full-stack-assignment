@@ -12,7 +12,7 @@ This assignment consists of creating a frontend application using this template 
 ...and a backend application using this template URL:
 
 - https://replit.com/github/empitwa/assignment-backend \
-  (The program entry point must be set to `main.py`. Be sure to set the correct entry point when prompted during the repl creation process. If things go wrong, you can recreate your repl environment.)
+  (The program entry point must be set to `main.py`. Be sure to set it as the entry point when prompted during the repl creation process. If any packages are missing, run `poetry install` in your shell envronment to install them. If things go wrong, you can recreate your repl environment.)
 
 Create the application environments using the templates at the above URLs.
 
